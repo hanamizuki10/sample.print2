@@ -86,6 +86,7 @@ public class Programs {
 				strL = str;
 				strR = str;
 			}
+			// 結果の出力
 			System.out.printf("%-5s | %-5s\n", strL , strR);
 		}
 
